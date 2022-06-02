@@ -1,0 +1,17 @@
+C:\Users\julio\OneDrive\Área de Trabalho\C#OOB\TesteCalculaArea\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\julio\OneDrive\Área de Trabalho\C#OOB\TesteCalculaArea\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\julio\OneDrive\Área de Trabalho\C#OOB\TesteCalculaArea\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\julio\OneDrive\Área de Trabalho\C#OOB\TesteCalculaArea\bin\Debug\netcoreapp2.1\TesteCalculaArea.deps.json
+C:\Users\julio\OneDrive\Área de Trabalho\C#OOB\TesteCalculaArea\bin\Debug\netcoreapp2.1\TesteCalculaArea.runtimeconfig.json
+C:\Users\julio\OneDrive\Área de Trabalho\C#OOB\TesteCalculaArea\bin\Debug\netcoreapp2.1\TesteCalculaArea.runtimeconfig.dev.json
+C:\Users\julio\OneDrive\Área de Trabalho\C#OOB\TesteCalculaArea\bin\Debug\netcoreapp2.1\TesteCalculaArea.dll
+C:\Users\julio\OneDrive\Área de Trabalho\C#OOB\TesteCalculaArea\bin\Debug\netcoreapp2.1\TesteCalculaArea.pdb
+C:\Users\julio\OneDrive\Área de Trabalho\C#OOB\TesteCalculaArea\bin\Debug\netcoreapp2.1\CalculaArea.dll
+C:\Users\julio\OneDrive\Área de Trabalho\C#OOB\TesteCalculaArea\bin\Debug\netcoreapp2.1\CalculaArea.pdb
+C:\Users\julio\OneDrive\Área de Trabalho\C#OOB\TesteCalculaArea\obj\Debug\netcoreapp2.1\TesteCalculaArea.csprojAssemblyReference.cache
+C:\Users\julio\OneDrive\Área de Trabalho\C#OOB\TesteCalculaArea\obj\Debug\netcoreapp2.1\TesteCalculaArea.csproj.CoreCompileInputs.cache
+C:\Users\julio\OneDrive\Área de Trabalho\C#OOB\TesteCalculaArea\obj\Debug\netcoreapp2.1\TesteCalculaArea.AssemblyInfoInputs.cache
+C:\Users\julio\OneDrive\Área de Trabalho\C#OOB\TesteCalculaArea\obj\Debug\netcoreapp2.1\TesteCalculaArea.AssemblyInfo.cs
+C:\Users\julio\OneDrive\Área de Trabalho\C#OOB\TesteCalculaArea\obj\Debug\netcoreapp2.1\TesteCalculaArea.csproj.CopyComplete
+C:\Users\julio\OneDrive\Área de Trabalho\C#OOB\TesteCalculaArea\obj\Debug\netcoreapp2.1\TesteCalculaArea.dll
+C:\Users\julio\OneDrive\Área de Trabalho\C#OOB\TesteCalculaArea\obj\Debug\netcoreapp2.1\TesteCalculaArea.pdb

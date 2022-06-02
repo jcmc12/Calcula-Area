@@ -1,0 +1,13 @@
+C:\Users\julio\OneDrive\Área de Trabalho\C#OOB\CalculaArea\bin\Debug\netcoreapp2.1\CalculaArea.deps.json
+C:\Users\julio\OneDrive\Área de Trabalho\C#OOB\CalculaArea\bin\Debug\netcoreapp2.1\CalculaArea.runtimeconfig.json
+C:\Users\julio\OneDrive\Área de Trabalho\C#OOB\CalculaArea\bin\Debug\netcoreapp2.1\CalculaArea.runtimeconfig.dev.json
+C:\Users\julio\OneDrive\Área de Trabalho\C#OOB\CalculaArea\bin\Debug\netcoreapp2.1\CalculaArea.dll
+C:\Users\julio\OneDrive\Área de Trabalho\C#OOB\CalculaArea\bin\Debug\netcoreapp2.1\CalculaArea.pdb
+C:\Users\julio\OneDrive\Área de Trabalho\C#OOB\CalculaArea\obj\Debug\netcoreapp2.1\CalculaArea.csproj.CoreCompileInputs.cache
+C:\Users\julio\OneDrive\Área de Trabalho\C#OOB\CalculaArea\obj\Debug\netcoreapp2.1\CalculaArea.AssemblyInfoInputs.cache
+C:\Users\julio\OneDrive\Área de Trabalho\C#OOB\CalculaArea\obj\Debug\netcoreapp2.1\CalculaArea.AssemblyInfo.cs
+C:\Users\julio\OneDrive\Área de Trabalho\C#OOB\CalculaArea\obj\Debug\netcoreapp2.1\CalculaArea.dll
+C:\Users\julio\OneDrive\Área de Trabalho\C#OOB\CalculaArea\obj\Debug\netcoreapp2.1\CalculaArea.pdb
+C:\Users\julio\OneDrive\Área de Trabalho\C#OOB\CalculaArea\obj\Debug\netcoreapp2.1\CalculaArea.csproj.AssemblyReference.cache
+C:\Users\julio\OneDrive\Área de Trabalho\C#OOB\CalculaArea\obj\Debug\netcoreapp2.1\CalculaArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\OneDrive\Área de Trabalho\C#OOB\CalculaArea\obj\Debug\netcoreapp2.1\CalculaArea.genruntimeconfig.cache
